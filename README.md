@@ -1,2 +1,9 @@
-# vendas-poo-python
-Este repositório demonstra a criação de classes para gerenciar dados de vendas em Python, aplicando conceitos de Programação Orientada a Objetos (POO). Inclui implementação de classes para vendas e relatórios, com cálculo automático do total de vendas.
+# Criando Classes para Dados de Vendas
+
+Este repositório contém a implementação de um sistema simples para gerenciar dados de vendas, utilizando conceitos de Programação Orientada a Objetos (POO) em Python.
+
+### Estrutura do Projeto
+
+- **Venda**: Classe responsável por armazenar as informações de cada venda, como produto, quantidade e valor.
+- **Relatorio**: Classe responsável por gerenciar as vendas adicionadas e calcular o total de vendas.
+
